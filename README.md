@@ -1,6 +1,9 @@
 # flutter_app_ui_km2
 
-A new Flutter application.
+<img src="https://user-images.githubusercontent.com/5345330/114206652-c208f880-9985-11eb-9218-248fbf85cc2d.png" width="300">
+
+A new Flutter application![ui1](https://user-images.githubusercontent.com/5345330/114206652-c208f880-9985-11eb-9218-248fbf85cc2d.png)
+.
 
 ## Getting Started
 
